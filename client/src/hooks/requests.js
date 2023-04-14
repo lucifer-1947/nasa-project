@@ -1,4 +1,4 @@
-const origin = 'http://localhost:4000/v1'
+const origin = 'v1'
 
 async function httpGetPlanets() {
   // DONE: Once API is ready.
